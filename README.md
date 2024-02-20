@@ -5,7 +5,7 @@
 
 My small purely learning project for Unity, i made inspired by [Acerola video](https://www.youtube.com/watch?v=9dr-tRQzij4&t=1109s)
 
-![](https://github.com/c0nche/Shell-Texturing-Toon-Water/blob/main/ShellTexturingWaterExapmple.png)
+![](https://github.com/c0nche/Shell-Texturing-Toon-Water/blob/main/Shell_Texturing_Water.gif)
 
 ---
 
